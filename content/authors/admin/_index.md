@@ -1,10 +1,9 @@
 ---
 title: Fan Wu
-role: M.A.Sc student in University of British Columbida
+role: "M.A.Sc student "
 avatar_filename: pasted-image-58.png
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: University of British Columbia
 superuser: true
 authors:
   - admin
